@@ -27,7 +27,7 @@ it, and it is never sent anywhere unless you sign in. It holds:
   "Gambit #4821", invented on your first visit;
 - your record — games played, won, lost, streaks and badges;
 - your army, the names your pieces have earned, and the hats they wear;
-- your vault — ink, keys and chests;
+- your vault — gold, keys and chests;
 - how far you have got in the campaign.
 
 **We use no cookies** — not for the game, not for sign-in, not for anything. Clearing your browser
