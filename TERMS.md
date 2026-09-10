@@ -56,9 +56,9 @@ licence to reuse it is granted by publishing it on the web.
 Recording video of yourself playing, streaming it, or writing about it is welcome and always will
 be, including on monetised channels.
 
-## 6. Ink, keys, chests and hats
+## 6. Gold, keys, chests and hats
 
-Everything you earn in the game — ink, keys, chests, hats, campaign progress, your army — is a
+Everything you earn in the game — gold, keys, chests, hats, campaign progress, your army — is a
 **licence to use a feature of the game, not property**. It has no value outside the game, is not a
 currency, cannot be exchanged for money, and may not be sold, traded or transferred to anybody
 else.
