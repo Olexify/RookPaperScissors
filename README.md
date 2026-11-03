@@ -1,6 +1,7 @@
-<a href="https://github.com/Olexify/RoOokKingdomGifCounter"><img align="right" width="140" src="https://roookkingdomgifcounter.vercel.app/api/counter" alt="Rook, Paper, Scissors visitor counter" /></a>
+# Rook, Paper, Scissors! <a href="https://github.com/Olexify/RoOokKingdomGifCounter"><img align="right" width="140" src="https://roookkingdomgifcounter.vercel.app/api/counter" alt="visitor counter" /></a>
 
-<h1 align="center">Rook, Paper, Scissors!</h1>
+<a href="https://rookpaperscissors.com"><img src="img/castle.jpg" alt="The opening of Rook, Paper, Scissors!: a castle at night under a full moon, with two campfires" /></a>
+
 
 <p align="center">
   <b>Chess, but the board fights back, the rules change mid-game, and your pawn holds a grudge.</b><br>
@@ -21,6 +22,17 @@ gets a name and keeps it, and if it wins enough it gets a hat. The hat is worn b
 will be insufferable about it.
 
 Then you take the same pieces and play football with them.
+
+<table>
+<tr>
+<td width="50%"><img src="img/siege.jpg" alt="Siege: a ram at the castle gate, trebuchets in the field and your own pieces glowing blue" /><br /><sub><b>Siege.</b> A ram at the gate, trebuchets in the field, and a clock nobody asked for.</sub></td>
+<td width="50%"><img src="img/last-crown.jpg" alt="Last Crown: four armies on one board, with your own pieces glowing" /><br /><sub><b>Last Crown.</b> Four armies, one bell, and a king who should have left earlier.</sub></td>
+</tr>
+<tr>
+<td width="50%"><img src="img/crown-clash.jpg" alt="Crown Clash: towers on both sides of a river, with a hand of cards" /><br /><sub><b>Crown Clash.</b> Drop pieces from your hand and go after their towers, in real time.</sub></td>
+<td width="50%"><img src="img/fortress.jpg" alt="Fortress: a horde of creeps walking a winding road across two fields" /><br /><sub><b>Fortress.</b> Your pieces build the defence. The horde has other plans.</sub></td>
+</tr>
+</table>
 
 ## Everything on the table
 
@@ -86,7 +98,3 @@ Streaming it, recording it and writing about it are welcome, including on moneti
 ## Contact
 
 <support@olexify.dev>
-
-<p align="center">
-  <img src="https://roookkingdomgifcounter.vercel.app/api/counter" width="480" alt="Rook, Paper, Scissors visitor counter" />
-</p>
