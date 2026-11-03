@@ -1,41 +1,68 @@
 <h1 align="center">Rook, Paper, Scissors!</h1>
 
 <p align="center">
-  <b>Chess, but the board fights back.</b><br>
+  <b>Chess, but the board fights back, the rules change mid-game, and your pawn holds a grudge.</b><br>
   <a href="https://rookpaperscissors.com"><b>Play it in your browser →</b></a>
 </p>
 
 <p align="center">
-  No download. No account needed. No adverts.
+  No download. No account needed. No adverts. Your knight has already started without you.
 </p>
 
 ---
 
-It is chess, and then it is not. The pieces remember what they did. The board has opinions. A pawn
-that survives four games long enough to be worth naming will get one, and it keeps it.
+You know how chess works. Forget most of it.
 
-## What is in it
+Every few moves you draft a rule from a deck of 88 cards, and so does your opponent. Tiles hand out
+power-ups. Chaos falls from the sky. Pirates turn up. Aliens turn up. A pawn that survives four games
+gets a name and keeps it, and if it wins enough it gets a hat. The hat is worn by that one pawn, who
+will be insufferable about it.
 
-- **A campaign.** The Book of Squares — seven chapters of hand-built battles against regents who
-  each break the rules in their own way, with hearts, second chances and a story between the
-  boards.
-- **An army with a memory.** Sixteen units that carry their fame, their shame, their kills and
-  their names from one game to the next. They earn ranks. They earn hats. A hat is worn by one
-  unit, not by a wardrobe, so a crown is a character rather than a cosmetic slot.
-- **Chaos, if you want it.** Power-ups, invention cards, alien hives, tides, doom clocks and a
-  fair amount of nonsense — all of it optional, all of it switchable, none of it in a ranked game.
-- **Somebody out there.** Online games against another person, with a rating, or a private room
-  behind a code you send to a friend.
-- **Play against your chat.** Point it at a Twitch channel and the viewers vote on every move. No
-  extension, no login, no bot in the channel — the page reads chat anonymously.
-- **Seventeen looks**, a board that fits a phone, and a soundtrack you can turn off.
+Then you take the same pieces and play football with them.
+
+## Everything on the table
+
+- **The Book of Squares.** Seven chapters of hand-built battles against regents who each cheat in
+  their own way, with hearts, second chances and a story between the boards.
+- **An Arcade of fifteen games for the same pieces.** Last Crown, Battle Royale, Siege, Fortress,
+  Tumbledown, Rumble Ball, Vault Raid, Secret King and an immortal snail that will not stop coming
+  for your king. Yes, really.
+- **An army with a memory.** Sixteen units carry their fame, their shame, their kills and their names
+  from game to game.
+- **Two bots with opinions.** Kitsumi is a fox. Lexi is a lion. Both will talk while they beat you.
+- **Actual humans.** Rated games, private rooms behind a code, party rooms and 2v2.
+- **Your Twitch chat as your opponent.** Point it at a channel and the viewers vote on every move. No
+  extension, no login, no bot in the channel. They will still blame you.
+- **Plain chess, if you must.** The chaos is optional and stays out of ranked games. Nobody will
+  judge you. Your pawn might.
 
 ## Free, and honest about it
 
-Everything in the game is earned by playing. There are no adverts, no analytics, no cookies and
-no tracking of any kind — see the [privacy policy](PRIVACY.md), which is short because there is
-very little to say. Signing in is optional and never involves a password; it exists so your army
-survives a cleared browser.
+The game is free and you can play all of it without paying. A few extras, such as premium hats, are
+sold through Ko-fi with fixed contents, stated up front. There are no adverts, no analytics, no
+cookies and no tracking of any kind: see the [privacy policy](PRIVACY.md), which is short because
+there is very little to say. Signing in is optional and never involves a password. It exists so your
+army survives a cleared browser.
+
+## The tiny staff
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Olexify/RoOokKingdomGifCounter/main/RpsPack/1.gif" width="64" alt="" />
+  <img src="https://raw.githubusercontent.com/Olexify/RoOokKingdomGifCounter/main/RpsPack/2.gif" width="64" alt="" />
+  <img src="https://raw.githubusercontent.com/Olexify/RoOokKingdomGifCounter/main/RpsPack/3.gif" width="64" alt="" />
+  <img src="https://raw.githubusercontent.com/Olexify/RoOokKingdomGifCounter/main/RpsPack/4.gif" width="64" alt="" />
+  <img src="https://raw.githubusercontent.com/Olexify/RoOokKingdomGifCounter/main/RpsPack/5.gif" width="64" alt="" />
+  <img src="https://raw.githubusercontent.com/Olexify/RoOokKingdomGifCounter/main/RpsPack/6.gif" width="64" alt="" />
+  <img src="https://raw.githubusercontent.com/Olexify/RoOokKingdomGifCounter/main/RpsPack/7.gif" width="64" alt="" />
+  <img src="https://raw.githubusercontent.com/Olexify/RoOokKingdomGifCounter/main/RpsPack/8.gif" width="64" alt="" />
+  <img src="https://raw.githubusercontent.com/Olexify/RoOokKingdomGifCounter/main/RpsPack/9.gif" width="64" alt="" />
+  <img src="https://raw.githubusercontent.com/Olexify/RoOokKingdomGifCounter/main/RpsPack/0.gif" width="64" alt="" />
+</p>
+
+The pieces also moonlight. A pawn, a knight, a living sheet of paper, a pair of scissors and the rest
+of the cast hold up your visit count on little wooden signs: the
+[Rook, Paper, Scissors! GIF Counter](https://github.com/Olexify/RoOokKingdomGifCounter) is free and
+self-hosted, for your GitHub profile or website. They ask only to be looked at.
 
 ## Legal
 
