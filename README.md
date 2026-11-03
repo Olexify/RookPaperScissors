@@ -1,3 +1,5 @@
+<a href="https://github.com/Olexify/RoOokKingdomGifCounter"><img align="right" width="140" src="https://roookkingdomgifcounter.vercel.app/api/counter" alt="Rook, Paper, Scissors visitor counter" /></a>
+
 <h1 align="center">Rook, Paper, Scissors!</h1>
 
 <p align="center">
@@ -84,3 +86,7 @@ Streaming it, recording it and writing about it are welcome, including on moneti
 ## Contact
 
 <support@olexify.dev>
+
+<p align="center">
+  <img src="https://roookkingdomgifcounter.vercel.app/api/counter" width="480" alt="Rook, Paper, Scissors visitor counter" />
+</p>
