@@ -34,16 +34,18 @@ Then you take the same pieces and play football with them.
 </tr>
 </table>
 
+<p align="center"><a href="https://rookpaperscissors.com"><img src="img/book-map.jpg" width="640" alt="The Book of Squares: a hand-inked map of castles, forests and a sea monster, with a red road between the battles" /></a><br /><sub><b>The Book of Squares.</b> The map is real. So is the sea monster.</sub></p>
+
 ## Everything on the table
 
-- **The Book of Squares.** Seven chapters of hand-built battles against regents who each cheat in
-  their own way, with hearts, second chances and a story between the boards.
-- **An Arcade of fifteen games for the same pieces.** Last Crown, Battle Royale, Siege, Fortress,
-  Tumbledown, Rumble Ball, Vault Raid, Secret King and an immortal snail that will not stop coming
+- **The Book of Squares.** More than 160 hand-built battles on an inked map, against regents who each
+  cheat in their own way, with hearts, second chances and a story between the boards.
+- **An Arcade of more than fifteen games for the same pieces.** Last Crown, Battle Royale, Siege, Fortress,
+  Throwdown, Tumbledown, Rumble Ball, Vault Raid, Secret King and an immortal snail that will not stop coming
   for your king. Yes, really.
 - **An army with a memory.** Sixteen units carry their fame, their shame, their kills and their names
   from game to game.
-- **Two bots with opinions.** Kitsumi is a fox. Lexi is a lion. Both will talk while they beat you.
+- **Two bots with opinions.** Kitsumi is a fox. Lexi is a lion. Both will talk while they beat you, out loud if you let them.
 - **Actual humans.** Rated games, private rooms behind a code, party rooms and 2v2.
 - **Your Twitch chat as your opponent.** Point it at a channel and the viewers vote on every move. No
   extension, no login, no bot in the channel. They will still blame you.
