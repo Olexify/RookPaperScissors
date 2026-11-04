@@ -55,8 +55,8 @@ Then you take the same pieces and play football with them.
 ## Free, and honest about it
 
 The game is free, and almost everything in it is earned by playing. Keys, gold, a few premium hats,
-looks and piece sets, Crown Clash cards, the Crown Pass and a second Locksmith are also sold on Ko-fi.
-Nothing you can buy is random, and nothing you can buy changes who wins a ranked match.
+looks and piece sets, Crown Clash cards, the Crown Pass and a second Locksmith are thank-you gifts for donations.
+None of it is random, and none of it changes who wins a ranked match.
 There are no adverts, no analytics, no
 cookies and no tracking of any kind: see the [privacy policy](PRIVACY.md), which is short because
 there is very little to say. Signing in is optional and never involves a password. It exists so your
